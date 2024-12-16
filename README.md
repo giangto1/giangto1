@@ -8,7 +8,7 @@ Hi, I'm Giang To, a Data Analyst passionate about uncovering insights and tellin
 With a strong foundation in mathematics, machine learning, and programming, I bring a comprehensive approach to solving complex data challenges.
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase my [projects](https://google.com).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/giangto1/Portfolio).
 
 ## 🛠️ Tools
 - Language: SQL, Python
