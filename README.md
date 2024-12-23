@@ -18,5 +18,5 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/giang
 - Visualization: Tableau, Looker Studio
 
 ## 👋🏻 Connect with Me
-[Linkedin](https://linkedin.com/giangto146)
+[Linkedin](https://linkedin.com/in/giangto146)
 
