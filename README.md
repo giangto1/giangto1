@@ -1,6 +1,6 @@
 # 🙋🏻‍♀️ Introducing myself 
 ![intro pic](https://github.com/giangto1/giangto1/blob/main/dataportfolio.png?raw=true)
-Hi, I'm Giang To, a Data Analyst passionate about uncovering insights and telling stories through data. I specialize in data analysis, visualization, and building efficient, scalable data solutions.
+Hi, I'm Jenny To, a Data Analyst passionate about uncovering insights and telling stories through data. I specialize in data analysis, visualization, and building efficient, scalable data solutions.
 
 - Query and analyze large datasets using SQL.
 - Build interactive dashboards with Tableau.
