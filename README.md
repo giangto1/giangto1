@@ -15,7 +15,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/giang
 ## 🛠️ Tools
 - Language: SQL, Python
 - Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Looker Studio
+- Visualization: Tableau, PowerBI
 
 ## 👋🏻 Connect with Me
 [Linkedin](https://linkedin.com/in/giangto146)
