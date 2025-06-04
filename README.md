@@ -10,7 +10,8 @@ Hi, I'm Jenny To, a Data Analyst passionate about uncovering insights and tellin
 With a strong foundation in mathematics, machine learning, and programming, I bring a comprehensive approach to solving complex data challenges.
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/giangto1/Portfolio).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/giangto1/Portfolio). 
+
 Get to know me more through my [website](https://giangto1.github.io/personal_website).
 
 ## 🛠️ Tools
