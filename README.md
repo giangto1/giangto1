@@ -11,6 +11,7 @@ With a strong foundation in mathematics, machine learning, and programming, I br
 
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/giangto1/Portfolio).
+Get to know me more through my [website](https://giangto1.github.io/personal_website).
 
 ## 🛠️ Tools
 - Language: SQL, Python
